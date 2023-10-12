@@ -15,7 +15,7 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
-``
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -32,7 +32,7 @@ Testing the webserver
  </ol>
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![Screenshot (374)](https://github.com/Soorya7/simplewebserver/assets/105735689/e0fd80e9-0050-4a5f-80b9-6b1b1ff0c81d)
 
