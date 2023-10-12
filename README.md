@@ -15,9 +15,25 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
-
+<!DOCTYPE html>
+<html>
+<head>
+<title>My webserver</title>
+</head>
+<body>
+<h1>Top FIVE Revenue companies</h1>
+ <ol>
+    <li>MICROSOFT</li>
+    <li>Google</li>
+    <li>Amazon</li>
+    <li>Samsung</li>
+    <li>TCS</li>
+ </ol>
+</body>
+</html>
 
 ## OUTPUT:
+![Screenshot (374)](https://github.com/Soorya7/simplewebserver/assets/105735689/e0fd80e9-0050-4a5f-80b9-6b1b1ff0c81d)
 
 
 ## RESULT:
