@@ -82,7 +82,8 @@ Testing the webserver
 </html>
 ```
 ## OUTPUT:
-<img width="960" alt="Screenshot 2023-10-19 221341" src="https://github.com/Soorya7/simplewebserver/assets/105735689/92a0fd42-5e22-4428-ab3d-e38cf8079300">
+<img width="956" alt="output1" src="https://github.com/Soorya7/simplewebserver/assets/105735689/ab764bab-5335-4c71-874b-a0f996f51df7">
+
 
 
 
